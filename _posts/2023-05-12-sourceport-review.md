@@ -3,7 +3,7 @@ layout: post
 title: A Review of Various Doom Sourceports
 categories: Doom
 ---
-Are you tired of playing on Do
+Ever since the doom engine's source code was released to the public,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg2NjcxMjgsOTU0NDQwOTcwXX0=
+eyJoaXN0b3J5IjpbLTY0NzA0MjMyMSw5NTQ0NDA5NzBdfQ==
 -->
