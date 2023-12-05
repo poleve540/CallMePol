@@ -11,9 +11,11 @@ Ever wanted to play Doom like it's 1993? Chocolate Doom, started in 2005 by Simo
 
 Crunchy 4:3 resolution, 35 fps cap, and all the original game's bugs and limitations: Chocolate Doom is essentially indistinguishable from the vanilla executable. It is one of the most accurate source ports out there.
 
-Despite the port's conservative nature, it still brings some new quality of life features. The default control scheme is very nice. A modern mouse & keyboard wasd layout, on top of getting rid of the annoying vertical mouse movement. The ability to always run is there, by pressing the caps key. I have a very sensitive pinkie finger you know?
+Despite the port's conservative nature, it still brings some new quality of life features. The default control scheme is very nice! A modern mouse & keyboard wasd layout, on top of getting rid of the annoying vertical mouse movement. The ability to always run is also there, by pressing the caps key, which is especially great for my sensitive pinkie finger. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwMDA5MTcsMTY0NTU0NzU3Myw4NT
+eyJoaXN0b3J5IjpbLTIxMTIxNDExODYsMTY0NTU0NzU3Myw4NT
 YxOTMwODIsLTEyNDYzMzMzNjMsMTcyNzU2NDM4OSwtMzk2MDM3
 MDI0LDg3MzY5MDIzOCwtMTQxOTk3MzUwMiwyMDU3MTk1NjAsLT
 kyNzkyODY4MiwxOTUxNjUzNDgyLDk1NDQ0MDk3MF19
