@@ -27,9 +27,9 @@ New gameplay features are available, such as jumping and a limited freelook. The
 
 But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets.
 
-Crispy Doom is a very nice source port, but it's lack of support for non-vanilla maps is a huge let
+Crispy Doom is a very nice source port, but it's lack of support for Boom and MBF is disappointing.
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstODY4MDc4Njc4LC0yMTI4NDgx
-NzEwLC0xMzQ5ODgwOTYzLDE4ODc0NjM0OTldfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTEwMDc5NzEyNywtMjEyODQ4
+MTcxMCwtMTM0OTg4MDk2MywxODg3NDYzNDk5XX0=
 -->
