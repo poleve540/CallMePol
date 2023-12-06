@@ -12,7 +12,7 @@ Crunchy 4:3 resolution, 35 fps cap, and all the original game's bugs and limitat
 
 (Picture showing the retro look)
 
-Despite the port's conservative nature, it still brings some new quality of life features. A modern control scheme, without the annoying vertical mouse movement. Controller support. Fullscreen support for higher resolutions, while still keeping the 320
+Despite the port's conservative nature, it still brings some new quality of life features. A modern control scheme, without the annoying vertical mouse movement. Controller support. Fullscreen support for higher resolutions, while still keeping the 320x200 look. Easily make use of custom soundfont for your midi. Support for 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg1ODQ2ODldfQ==
+eyJoaXN0b3J5IjpbMTYxNDg0MTQxNV19
 -->
