@@ -25,9 +25,9 @@ The biggest feature is the new 640x400 resolution, giving the game a "Crispy" lo
 
 New gameplay features are available, such as jumping and a limited freelook. There are many compatibility settings to change how the game behaves, like disabling infinite monster height.
 
-But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres.
+But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDkwNzA4MTksLTIxMjg0ODE3
-MTAsLTEzNDk4ODA5NjMsMTg4NzQ2MzQ5OV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTE2NDAzOTEyMCwtMjEyODQ4
+MTcxMCwtMTM0OTg4MDk2MywxODg3NDYzNDk5XX0=
 -->
