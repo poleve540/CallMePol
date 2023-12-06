@@ -12,7 +12,9 @@ Crunchy 4:3 resolution, 35 fps cap, and all the original game's bugs and limitat
 
 (Picture showing the retro look)
 
-Despite the port's conservative nature, it still brings some new quality of life features. A modern control scheme, without the annoying vertical mouse movement. Controller support. Fullscreen support for higher resolutions, while still keeping the 320x200 look. 
+Despite the port's conservative nature, it still brings some new quality of life features. A modern control scheme is available, getting rid the annoying vertical mouse movement. Controller support. Fullscreen support for higher resolutions, while still keeping the 320x200 look. High quality soundtrack support. And finally, an easy to use command line interface.
+
+Chocolate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTI0OTU1MF19
+eyJoaXN0b3J5IjpbLTc2OTgwODcwOV19
 -->
