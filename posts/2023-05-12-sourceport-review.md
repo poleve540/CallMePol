@@ -27,10 +27,12 @@ New gameplay features are available, such as jumping and a limited freelook. The
 
 But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets.
 
-It is my source port of choice for vanilla doom, since setting it up for play is easier and faster than some other more advanced source ports. Getting it  Though I wish it had Boom and MBF support.
+It is my source port of choice for vanilla doom, since setting it up for play is easier and faster than some other more advanced source ports. Though I wish it had Boom and MBF support.
+
+# DOOM Retro
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlszNzE2MjA0OTUsMTUwNzIzMzYx
-LC0xMTAwNzk3MTI3LC0yMTI4NDgxNzEwLC0xMzQ5ODgwOTYzLD
-E4ODc0NjM0OTldfQ==
+BnZm1cbiIsImhpc3RvcnkiOlstMTkyMDYyMTg3NCwxNTA3MjMz
+NjEsLTExMDA3OTcxMjcsLTIxMjg0ODE3MTAsLTEzNDk4ODA5Nj
+MsMTg4NzQ2MzQ5OV19
 -->
