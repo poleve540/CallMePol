@@ -32,13 +32,15 @@ It is my source port of choice for vanilla doom, since setting it up for play is
 ## Crispy Doom forks
 Here are a few source ports based on Cripsy Doom
 ### Russian Doom
-Crisp
+idk bro I should try it out first
+### Nugget Doom
+same bro gotta try it out more
 
 # DOOM Retro
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMTY1NDQ4MjcsMTUwNzIzMzYx
-LC0xMTAwNzk3MTI3LC0yMTI4NDgxNzEwLC0xMzQ5ODgwOTYzLD
-E4ODc0NjM0OTldfQ==
+BnZm1cbiIsImhpc3RvcnkiOlsxNTM0NTgxMjM4LDE1MDcyMzM2
+MSwtMTEwMDc5NzEyNywtMjEyODQ4MTcxMCwtMTM0OTg4MDk2My
+wxODg3NDYzNDk5XX0=
 -->
