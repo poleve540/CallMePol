@@ -1,10 +1,12 @@
 ---
 layout: post
-title: My Best 
+title: Best Games I Played in 2023
 categories: Game Review
 ---
-(I need to research the dev interview on mario wonder, stats on the game's success, and obviously my personal feelings on the game)
-Ever since Super Mario World, there hasn't really been any attempt at making 2D mario great again. Instead, Nintendo kept on 
+# Mario Wonder
+# Ultrakill
+# The Entirety of the Mega Man Series
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjkxODIyOCwxNDQwMzM3MjA2XX0=
+eyJoaXN0b3J5IjpbLTE3MjgwOTU1ODMsMTQ0MDMzNzIwNl19
 -->
