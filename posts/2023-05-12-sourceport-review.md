@@ -30,13 +30,13 @@ But my favourite thing has to be the small details added to the game. Differentl
 It is my source port of choice for vanilla doom, since setting it up for play is easier and faster than some other more advanced source ports. Though I wish it had Boom and MBF support.
 
 ## Crispy Doom forks
-Crispy Doom
+Crispy Doom itself has 
 
 # DOOM Retro
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMjA2MDg1MTgyOSwxNTA3MjMz
-NjEsLTExMDA3OTcxMjcsLTIxMjg0ODE3MTAsLTEzNDk4ODA5Nj
-MsMTg4NzQ2MzQ5OV19
+BnZm1cbiIsImhpc3RvcnkiOlstNjE1ODA5NTQwLDE1MDcyMzM2
+MSwtMTEwMDc5NzEyNywtMjEyODQ4MTcxMCwtMTM0OTg4MDk2My
+wxODg3NDYzNDk5XX0=
 -->
