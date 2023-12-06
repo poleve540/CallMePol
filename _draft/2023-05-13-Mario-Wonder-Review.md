@@ -5,10 +5,13 @@ categories: Game Review
 ---
 # Mario Wonder
 # Ultrakill
-# The Entirety of the Mega Man Series
+# Best of Mega Man Series
 # Super Mario World
 # Dusk
-
+# Super Mario 64
+# Deltarune
+# Kirby's Return to Dream Land DELUXE
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTI4MzYwNSwxNDQwMzM3MjA2XX0=
+eyJoaXN0b3J5IjpbLTg4MjAwNjQyMiwyMTM5MjgzNjA1LDE0ND
+AzMzcyMDZdfQ==
 -->
