@@ -14,7 +14,7 @@ Crunchy 4:3 resolution, 35 fps cap, and all the original game's bugs and limitat
 
 Despite the port's conservative nature, it still brings some new quality of life features. A modern control scheme is available, getting rid the annoying vertical mouse movement. Controller support. Fullscreen support for higher resolutions, while still keeping the 320x200 look. High quality soundtrack support. And finally, an easy to use command line interface.
 
-Chocolate 
+Chocolate doom is your source port of choice if you are looking for a true vanilla experience. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTgwODcwOV19
+eyJoaXN0b3J5IjpbLTE5NjAxNDI5OTddfQ==
 -->
