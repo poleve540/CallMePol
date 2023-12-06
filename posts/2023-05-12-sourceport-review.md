@@ -23,9 +23,9 @@ The biggest feature is the new 640x400 resolution, giving the game a "Crispy" lo
 
 (insert crispy screenshot)
 
-New gameplay features are available. You can disable the monster infinite height, 
+New gameplay features are available, such as jumping and a limited freelook. You can also change certain gameplay settings,
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyMDI4MzMxMTU4LC0yMTI4NDgx
+BnZm1cbiIsImhpc3RvcnkiOlstNjcwNTY2NTQyLC0yMTI4NDgx
 NzEwLC0xMzQ5ODgwOTYzLDE4ODc0NjM0OTldfQ==
 -->
