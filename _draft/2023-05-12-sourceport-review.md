@@ -16,8 +16,8 @@ Despite the port's conservative nature, it still brings some new quality of life
 
 The default control scheme is very nice. A modern mouse & keyboard wasd layout, on top of getting rid of the annoying vertical mouse movement. The ability to always run is also there, by pressing the caps key, which is especially great for my sensitive pinkie finger. You can also play with a controller.
 
-
+In order to maintain the retro look, chocolate doom uses interpolation 
 When it comes to compatibility, it is not limit-removing. However, it does offer dehacked support. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTUwNDQ5MThdfQ==
+eyJoaXN0b3J5IjpbLTU3MDUxNDI3Nl19
 -->
