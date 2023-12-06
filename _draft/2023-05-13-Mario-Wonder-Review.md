@@ -6,7 +6,9 @@ categories: Game Review
 # Mario Wonder
 # Ultrakill
 # The Entirety of the Mega Man Series
+# Super Mario World
+# Dusk
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgwOTU1ODMsMTQ0MDMzNzIwNl19
+eyJoaXN0b3J5IjpbMjEzOTI4MzYwNSwxNDQwMzM3MjA2XX0=
 -->
