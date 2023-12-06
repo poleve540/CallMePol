@@ -14,9 +14,7 @@ Crunchy 4:3 resolution, 35 fps cap, and all the original game's bugs and limitat
 
 Despite the port's conservative nature, it still brings some new quality of life features. The default control scheme is very nice! A modern mouse & keyboard wasd layout, on top of getting rid of the annoying vertical mouse movement. The ability to always run is also there, by pressing the caps key, which is especially great for my sensitive pinkie finger. 
 
-
-
-
+When it comes to compatibility, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM0MTEzMDhdfQ==
+eyJoaXN0b3J5IjpbMjMyMDgyODA5XX0=
 -->
