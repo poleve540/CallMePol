@@ -17,9 +17,9 @@ Despite the port's conservative nature, it still brings some new quality of life
 Chocolate doom is your source port of choice if you are looking for a true vanilla experience. It's extremely lightweight nature also makes it great for portability, and low spec machines.
 
 # Crispy Doom
-Another lightweight and conservative source port based on Chocolate Doom, Crispy Doom aims to remove the original game's limitations and make it 
+Based on Chocolate Doom, Crispy Doom is another conservative source port that removes the original game's limitations and 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsyOTc1NjM1NTAsMTg4NzQ2MzQ5
-OV19
+BnZm1cbiIsImhpc3RvcnkiOlstMTM0OTg4MDk2MywxODg3NDYz
+NDk5XX0=
 -->
