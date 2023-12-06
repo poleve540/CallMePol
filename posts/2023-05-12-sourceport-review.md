@@ -25,9 +25,11 @@ The biggest feature is the new 640x400 resolution, giving the game a "Crispy" lo
 
 New gameplay features are available, such as jumping and a limited freelook. There are many compatibility settings to change how the game behaves, like disabling infinite monster height.
 
-But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets. 
+But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets.
+
+Crispy Doom is a very nice source port, but it's lack of support for non-vanilla maps is a huge let
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTE2NDAzOTEyMCwtMjEyODQ4
-MTcxMCwtMTM0OTg4MDk2MywxODg3NDYzNDk5XX0=
+BnZm1cbiIsImhpc3RvcnkiOlstODY4MDc4Njc4LC0yMTI4NDgx
+NzEwLC0xMzQ5ODgwOTYzLDE4ODc0NjM0OTldfQ==
 -->
