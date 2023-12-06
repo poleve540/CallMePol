@@ -19,9 +19,12 @@ Chocolate doom is your source port of choice if you are looking for a true vanil
 # Crispy Doom (add Crispy logo)
 Based on Chocolate Doom, Crispy Doom removes the original game's limitations and adds many new features.
 
-The biggest feature is the new 640x400 resolution, giving the name a "Crispy" look. 
+The biggest feature is the new 640x400 resolution, giving the game a "Crispy" look. Widescreen support is available, which is huge.
+(insert crispy screenshot)
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlstMTg1OTc4ODM0NiwtMTM0OTg4
+BnZm1cbiIsImhpc3RvcnkiOlstMjEyODQ4MTcxMCwtMTM0OTg4
 MDk2MywxODg3NDYzNDk5XX0=
 -->
