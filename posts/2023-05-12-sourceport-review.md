@@ -19,6 +19,8 @@ Chocolate doom is your source port of choice if you are looking for a true vanil
 # Crispy Doom (add Crispy logo)
 Based on Chocolate Doom, Crispy Doom removes the original game's limitations and adds many new features.
 
+It myor vanilla doom, since setting it up for play is easier and faster than some other more advanced source ports. Getting it to behave like the original only takes seconds. 
+
 The biggest feature is the new 640x400 resolution, giving the game a "Crispy" look. It also has widescreen support and uncapped framerate.
 
 (insert crispy screenshot)
@@ -27,10 +29,11 @@ New gameplay features are available, such as jumping and a limited freelook. The
 
 But my favourite thing has to be the small details added to the game. Differently colored blood for monsters such as cacodemons and hell knights. Randomly mirrored corpses. Translucency on spectres. Better colored automap. Notifications when finding secrets.
 
-It's my source port of choice for vanilla doom, since setting it up for play is easier and faster than some other more advanced source ports. Getting it to behave like the original. Crispy Doom is a very nice source port, though I wish it had Boom and MBF support. 
+
+Crispy Doom is a very nice source port, though I wish it had Boom and MBF support. 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-BnZm1cbiIsImhpc3RvcnkiOlsxNTA3MjMzNjEsLTExMDA3OTcx
-MjcsLTIxMjg0ODE3MTAsLTEzNDk4ODA5NjMsMTg4NzQ2MzQ5OV
-19
+BnZm1cbiIsImhpc3RvcnkiOls3MzY4NTM4NDQsMTUwNzIzMzYx
+LC0xMTAwNzk3MTI3LC0yMTI4NDgxNzEwLC0xMzQ5ODgwOTYzLD
+E4ODc0NjM0OTldfQ==
 -->
