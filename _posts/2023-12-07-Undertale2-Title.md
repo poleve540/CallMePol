@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UNDERTALE
+title: "UNDERTALE
 categories: Undertale
 ---
 
@@ -29,5 +29,5 @@ Now, if you're lucky enough to get the same thought multiple times in a row, a s
 
 I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific part of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTcyNzY0Ml19
+eyJoaXN0b3J5IjpbMTkzMDQ3NDc0MSwtNTc1NzI3NjQyXX0=
 -->
