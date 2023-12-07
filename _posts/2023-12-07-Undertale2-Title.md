@@ -1,7 +1,7 @@
 ---
 layout: post
-title: UNDERTALE II: Revenge of the Robots (PART ONE)
-categories: Undertale 2
+title: UNDERTALE
+categories: Undertale
 ---
 
 Undertale II: Revenge of the Robots is the single greatest Undertale fangame of all time. The plot, the writing, the gameplay, the characters, the art style... Everything about it is PEAK! However, this game is severly underrated, and I wish more people recognized how exceptional of a fan game it truly is. Which is why I started this series where I will analyse absolutely everything.
