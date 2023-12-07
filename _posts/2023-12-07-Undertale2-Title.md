@@ -27,8 +27,8 @@ Now, if you're lucky enough to get the same thought multiple times in a row, a s
 
 ![](../images)corn_style.png.
 
-I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific  of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
+I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific facet of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ0NzAxLDE5MzA0NzQ3NDEsLTU3NT
-cyNzY0Ml19
+eyJoaXN0b3J5IjpbLTI4MzgyNzMxNiwxOTMwNDc0NzQxLC01Nz
+U3Mjc2NDJdfQ==
 -->
