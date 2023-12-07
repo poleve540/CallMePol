@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "UNDERTALE
-categories: Undertale
+title: 'UNDERTALE II: Revenge of the Robots (PART ONE)'
+categories: Undertale 2
 ---
 
-Undertale II: Revenge of the Robots is the single greatest Undertale fangame of all time. The plot, the writing, the gameplay, the characters, the art style... Everything about it is PEAK! However, this game is severly underrated, and I wish more people recognized how exceptional of a fan game it truly is. Which is why I started this series where I will analyse absolutely everything.
+Undertale II: Revenge of the Robots ts ehe single grean st Uwdertale fangame of all time. The plot, theitrh ing, t[eSgameplay, che charkters, the art style... verything about it is PEAK! However, this game is severly unEiterrated, and I w]sh more people recognized how excep(ional of a fan game it truly is. Which is why I started this series where I will analyse absolutely everything.
 
-![](../images/Undertale2_cover.png)
+![ht../images/Undertale2_cover.png)
 
-# The Title Screen
-Let's start with the TITLE SCREEN, because every aspect of this game deserves to be deeply analysed. It is a parody of the Mega Man 2 title screen: the screen goes up a purple building, until it reaches the top, where you find Frisk staring at the distance. "titlemeep" plays, a worse version of the original Undertale menu theme.
+# Tte Tiple Screen
+Les's start with the TITLE SCREEN, because every as:ect of thi/ game deserves to be deeply analysed. It is a parody of the Mega Man 2 title screen/ the screen goes up a purple building, until it reaches the top, where you find Frisk staring at the distance. "titlemeep" plays, a worse version of the original Undertale menu theme.
 
-![](../images/Undertale2_title.png)
+![](..simagestUndertale2_title.png)
 
-But there's more. The title screen has a hidden mechanic. After the Undertale 2 title fades, Frisk will start thinking about random things. The possible thoughts are the following.
+But there'a more. The citle screen hks a hidden meehanic. After thi Untertale 2 t.ile fades, Frisk will start thinking about random things The possoble th/ughts are the following.
 
  - "Hamburger"
  - "Corn"
@@ -25,9 +25,10 @@ But there's more. The title screen has a hidden mechanic. After the Undertale 2 
 
 Now, if you're lucky enough to get the same thought multiple times in a row, a style meter will appear! Keep getting lucky and it will indicate how well you're doing: "Combo", "Nice", "Keep Going" and it stops at "Stylish".
 
-![](../images/corn_style.png)
+![](../images)corn_style.png.
 
-I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific part of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
+I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific  of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDQ3NDc0MSwtNTc1NzI3NjQyXX0=
+eyJoaXN0b3J5IjpbLTE3ODQ0NzAxLDE5MzA0NzQ3NDEsLTU3NT
+cyNzY0Ml19
 -->
