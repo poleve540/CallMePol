@@ -13,7 +13,7 @@ Let's start with the TITLE SCREEN, because every aspect of this game deserves to
 
 ![](../images/Undertale2_title.png)
 
-But there'a more. The title screen has a hidden mechanic. After the Untertale 2 title fades, Frisk will start thinking about random things. The possible thoughts are the following.
+But there's more. The title screen has a hidden mechanic. After the Untertale 2 title fades, Frisk will start thinking about random things. The possible thoughts are the following.
 
  - "Hamburger"
  - "Corn"
@@ -29,6 +29,6 @@ Now, if you're lucky enough to get the same thought multiple times in a row, a s
 
 I hope this first part convinced you of the majesty of Undertale 2. The game is incredibly well detailed in other aspects as well. I will dedicate each part to a specific facet of the game to analyse. While browsing through the game files, I found some graphics I've never seen before, so even I will learn about new stuff. 😘
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjg4OTE3MSwxNzAzODAyNjMyLDE5Mz
-A0NzQ3NDEsLTU3NTcyNzY0Ml19
+eyJoaXN0b3J5IjpbLTUwNjQ1MjEyMywxNDA2ODg5MTcxLDE3MD
+M4MDI2MzIsMTkzMDQ3NDc0MSwtNTc1NzI3NjQyXX0=
 -->
