@@ -9,11 +9,12 @@ I was supposed to write about the intro cutscene, but when starting the game I d
 
 ![](../images/turdlenac2.png)
 
-You have to get lucky to get one of these. There are 8 alternate titles (and their respective menu theme):
+You have to get lucky to get one of these. There are 8 alternate titles:
 
+ - Undertale 2: Und Attorney
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTk2NTgwLC0xNzY1OTEzOTI0LC0xNj
-E0NzE2NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzg4MjEyNTgsNjkyOTk2NTgwLC0xNz
+Y1OTEzOTI0LC0xNjE0NzE2NzRdfQ==
 -->
