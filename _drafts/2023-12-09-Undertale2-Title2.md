@@ -20,15 +20,17 @@ You have to get lucky to get one of these. There are 8 alternate titles:
  - Honk Kong 97 copyright notice parody
  - turdlenae2
 
-I have no idea what turdlenae2 is supposed to be a parody of. The music that plays alongside it is named "Shi**ymusic". I don't read chinese so I can't tell you what the Honk Kong 97 title says.
+I have no idea what turdlenae2 is supposed to be a parody of. The music that plays alongside it is named "Shi**ymusic"
 
+I don't read chinese so I can't tell you what the Honk Kong 97 title says.
 
+![](undertale2hongkong.png)
 
 My favourite one is the Ace Attorney parody!
 
 ![](undertale2aceatt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzYxODQ2Niw2OTI5OTY1ODAsLTE3Nj
+eyJoaXN0b3J5IjpbMTgxNDg2OTIyNCw2OTI5OTY1ODAsLTE3Nj
 U5MTM5MjQsLTE2MTQ3MTY3NF19
 -->
