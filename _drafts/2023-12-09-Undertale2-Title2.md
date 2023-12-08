@@ -16,7 +16,9 @@ You have to get lucky to get one of these. There are 8 alternate titles:
  - Undertale 3: Tickering Troupe Unite
  - Deltarune ZERO
  - Under Kong Taley 2: What Da Hecke
+ - Funny Funny Undertale 2 Club! Haha!!
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNjIxMTM0LDY5Mjk5NjU4MCwtMTc2NT
-kxMzkyNCwtMTYxNDcxNjc0XX0=
+eyJoaXN0b3J5IjpbNjU4NzQ5MjksNjkyOTk2NTgwLC0xNzY1OT
+EzOTI0LC0xNjE0NzE2NzRdfQ==
 -->
