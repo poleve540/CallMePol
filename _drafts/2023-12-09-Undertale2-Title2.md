@@ -17,16 +17,18 @@ You have to get lucky to get one of these. There are 8 alternate titles:
  - Deltarune ZERO
  - Under Kong Taley 2: What Da Hecke
  - Funny Funny Undertale 2 Club! Haha!!
- - Some chinese copyright notice
+ - Honk Kong 97 copyright notice parody
  - turdlenae2
 
-I have no idea what turdlenae2 is supposed to be a parody of. The music that plays alongside it is named "Shi**ymusic". I don't read chinese but I believe
+I have no idea what turdlenae2 is supposed to be a parody of. The music that plays alongside it is named "Shi**ymusic". I don't read chinese so I can't tell you what the Honk Kong 97 title says.
 
-My favourite one is the Ace Attorney parody.
+
+
+My favourite one is the Ace Attorney parody!
 
 ![](undertale2aceatt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MTYwNjc4LDY5Mjk5NjU4MCwtMTc2NT
-kxMzkyNCwtMTYxNDcxNjc0XX0=
+eyJoaXN0b3J5IjpbMTA5MzYxODQ2Niw2OTI5OTY1ODAsLTE3Nj
+U5MTM5MjQsLTE2MTQ3MTY3NF19
 -->
