@@ -11,12 +11,12 @@ I was supposed to write about the intro cutscene, but when starting the game I d
 
 You have to get lucky to get one of these. There are 8 alternate titles:
 
- - Firsk Undertale: Und Attorney
+ - Firsk Undertale: Und Attorney -- Revenge of the Robots
  - Under52
  - Undertale 3: Tickering Troupe Unite
  - Deltarune ZERO
- - 
+ - Under Kong Taley 2: What Da Hecke
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM0MTU0NTYsNjkyOTk2NTgwLC0xNz
-Y1OTEzOTI0LC0xNjE0NzE2NzRdfQ==
+eyJoaXN0b3J5IjpbNzcxNjIxMTM0LDY5Mjk5NjU4MCwtMTc2NT
+kxMzkyNCwtMTYxNDcxNjc0XX0=
 -->
