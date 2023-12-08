@@ -24,12 +24,12 @@ I have no idea what turdlenae2 is supposed to be a parody of. The music that pla
 
 I don't read chinese so I can't tell you what the Honk Kong 97 title says.
 
-![](undertale2hongkong.png)
+![](../images/undertale2hongkong.png)
 
 My favourite one is the Ace Attorney parody!
 
-![](undertale2aceatt.png)
+![](../images/undertale2aceatt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTY4MDUyNCwxNzAxMTM3MDE0XX0=
+eyJoaXN0b3J5IjpbLTE4MjE0MDcwMjgsMTcwMTEzNzAxNF19
 -->
