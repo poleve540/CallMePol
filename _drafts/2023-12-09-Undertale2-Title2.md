@@ -17,9 +17,13 @@ You have to get lucky to get one of these. There are 8 alternate titles:
  - Deltarune ZERO
  - Under Kong Taley 2: What Da Hecke
  - Funny Funny Undertale 2 Club! Haha!!
- - A parody of the Honk Kong 97 copyright notice (no chinese😔)
- - 
+ - A parody of the Honk Kong 97 copyright notice
+ - turdlenac2
+
+My favourite one is the Ace Attorney parody.
+
+![]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM3MDc2NjgsNjkyOTk2NTgwLC0xNz
+eyJoaXN0b3J5IjpbLTEwMDE1NDUzMzMsNjkyOTk2NTgwLC0xNz
 Y1OTEzOTI0LC0xNjE0NzE2NzRdfQ==
 -->
