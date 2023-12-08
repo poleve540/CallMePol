@@ -5,7 +5,7 @@ categories: Undertale 2
 ---
 MORE STUFF ABOUT THE TITLE SCREEN OF UNDERTALE 2 YAHOO!!
 
-I was supposed to write about the intro cutscene, but when starting the game I discovered something new about the title screen. The music and main title can be randomised!
+I was supposed to write about the intro cutscene, but when starting the game I discovered something new. The music and main title can be randomised!
 
 ![](../images/turdlenac2.png)
 
@@ -31,5 +31,5 @@ My favourite one is the Ace Attorney parody!
 ![](undertale2aceatt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTEzNzAxNF19
+eyJoaXN0b3J5IjpbMTE5OTY4MDUyNCwxNzAxMTM3MDE0XX0=
 -->
