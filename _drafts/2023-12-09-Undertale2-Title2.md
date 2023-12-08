@@ -9,8 +9,9 @@ I was supposed to write about the intro cutscene, but when starting the game I d
 
 ![](../images/turdlenac2.png)
 
-You have to get lucky to get one of these.
+You have to get lucky to get one of these. Th
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjU5MTM5MjQsLTE2MTQ3MTY3NF19
+eyJoaXN0b3J5IjpbNTc1MzMwNDMyLC0xNzY1OTEzOTI0LC0xNj
+E0NzE2NzRdfQ==
 -->
