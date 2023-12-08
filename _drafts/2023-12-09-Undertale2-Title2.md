@@ -11,10 +11,12 @@ I was supposed to write about the intro cutscene, but when starting the game I d
 
 You have to get lucky to get one of these. There are 8 alternate titles:
 
- - Undertale 2: Und Attorney
+ - Firsk Undertale: Und Attorney
+ - Under52
+ - Undertale 3: Tickering Troupe Unite
+ - Deltarune ZERO
  - 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg4MjEyNTgsNjkyOTk2NTgwLC0xNz
+eyJoaXN0b3J5IjpbLTE3MzM0MTU0NTYsNjkyOTk2NTgwLC0xNz
 Y1OTEzOTI0LC0xNjE0NzE2NzRdfQ==
 -->
