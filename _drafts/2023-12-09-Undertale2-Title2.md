@@ -18,15 +18,15 @@ You have to get lucky to get one of these. There are 8 alternate titles:
  - Under Kong Taley 2: What Da Hecke
  - Funny Funny Undertale 2 Club! Haha!!
  - Some chinese copyright notice
- - turdlenac2
+ - turdlenae2
 
-I have no idea what turdlenac2 is supposed to be a parody off. 
+I have no idea what turdlenae2 is supposed to be a parody of. The music that plays alongside it is named "Shi**ymusic". I don't read chinese but I believe
 
 My favourite one is the Ace Attorney parody.
 
 ![](undertale2aceatt.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjYzNjcyNDQsNjkyOTk2NTgwLC0xNz
-Y1OTEzOTI0LC0xNjE0NzE2NzRdfQ==
+eyJoaXN0b3J5IjpbOTQ4MTYwNjc4LDY5Mjk5NjU4MCwtMTc2NT
+kxMzkyNCwtMTYxNDcxNjc0XX0=
 -->
