@@ -7,7 +7,7 @@ While there is no way to spare enemies in Undertale 2, it is still possible to g
 
 You will be able to start the route when meeting Flowey. If you choose to go past Flowey and leave without fighting, you will be held back. Flowey hints at a possible solution to ignore the fight.
 
-The solution is the glass panes. They're the key to the many puzzles of the Ignoramus route. Simple
+The solution is the hidden glass panes in the room. Glass panes are the key to the many puzzles of the Ignoramus route. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDI1NTI0MSw3NDc0OTUxNDFdfQ==
+eyJoaXN0b3J5IjpbMjQ0MDkwMTAxLDc0NzQ5NTE0MV19
 -->
