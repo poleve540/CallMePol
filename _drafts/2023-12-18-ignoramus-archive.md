@@ -1,5 +1,9 @@
 ---
-Title: Undertale 2 Ignoramus (Intro)
+layout: post
+title: Undertale 2 Ignoramus Walkthrough (Intro)
+categories: 'Undertale 2' 'Ignoramus'
+---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM0MTI4NDNdfQ==
+eyJoaXN0b3J5IjpbNzQ3NDk1MTQxXX0=
 -->
