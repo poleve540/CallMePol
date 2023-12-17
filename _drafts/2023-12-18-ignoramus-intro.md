@@ -9,7 +9,7 @@ You will be able to start the route when meeting Flowey. If you choose to go pas
 
 The solution is the hidden glass panes in the room. Glass panes are oftentimes the key to the many puzzles of the Ignoramus route. 
 
-![](../images
+![](../images/screenshot with red marker showing the hidden labyrinth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDAxMTI3LDc0NzQ5NTE0MV19
+eyJoaXN0b3J5IjpbNzY0NTMyNDE1LDc0NzQ5NTE0MV19
 -->
